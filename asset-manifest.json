@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/simpleReactJsdeploy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/simpleReactJsdeploy/static/js/main.3612033d.chunk.js",
+    "main.js.map": "/simpleReactJsdeploy/static/js/main.3612033d.chunk.js.map",
+    "runtime-main.js": "/simpleReactJsdeploy/static/js/runtime-main.708f9885.js",
+    "runtime-main.js.map": "/simpleReactJsdeploy/static/js/runtime-main.708f9885.js.map",
+    "static/css/2.07725c36.chunk.css": "/simpleReactJsdeploy/static/css/2.07725c36.chunk.css",
+    "static/js/2.fd64ddf7.chunk.js": "/simpleReactJsdeploy/static/js/2.fd64ddf7.chunk.js",
+    "static/js/2.fd64ddf7.chunk.js.map": "/simpleReactJsdeploy/static/js/2.fd64ddf7.chunk.js.map",
+    "static/js/3.7d5f023e.chunk.js": "/simpleReactJsdeploy/static/js/3.7d5f023e.chunk.js",
+    "static/js/3.7d5f023e.chunk.js.map": "/simpleReactJsdeploy/static/js/3.7d5f023e.chunk.js.map",
+    "index.html": "/simpleReactJsdeploy/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/simpleReactJsdeploy/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/simpleReactJsdeploy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fd64ddf7.chunk.js.LICENSE.txt": "/simpleReactJsdeploy/static/js/2.fd64ddf7.chunk.js.LICENSE.txt",
+    "static/media/1.4a14f695.png": "/simpleReactJsdeploy/static/media/1.4a14f695.png",
+    "static/media/2.c044a927.png": "/simpleReactJsdeploy/static/media/2.c044a927.png",
+    "static/media/3.e39f2bb0.png": "/simpleReactJsdeploy/static/media/3.e39f2bb0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.708f9885.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.fd64ddf7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3612033d.chunk.js"
+  ]
+}
